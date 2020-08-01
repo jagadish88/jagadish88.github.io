@@ -19,7 +19,8 @@ There is no universally accepted definition of a mountain. Elevation, volume, re
 
 
 
-![Enter description]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kailash-Barkha.jpg/1200px-Kailash-Barkha.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kailash-Barkha.jpg/1200px-Kailash-Barkha.jpg))
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kailash-Barkha.jpg/1200px-Kailash-Barkha.jpg))
+
 
 ## Lists
 
